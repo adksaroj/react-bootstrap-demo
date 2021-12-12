@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+1. npm install react-bootstrap bootstrap@4.6.0
+2. Use react bootrap CDN
+3. Use bootstrap components
+
 ## Available Scripts
 
 In the project directory, you can run:
